@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{DE253A80-475C-465D-A8E8-604EF46BD16D}") = "GainChanger", "GainChanger.vcxproj", "{7138A8C2-9EEA-D3CA-6421-5705A4F3DD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7138A8C2-9EEA-D3CA-6421-5705A4F3DD96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7138A8C2-9EEA-D3CA-6421-5705A4F3DD96}.Debug|Win32.Build.0 = Debug|Win32
+		{7138A8C2-9EEA-D3CA-6421-5705A4F3DD96}.Release|Win32.ActiveCfg = Release|Win32
+		{7138A8C2-9EEA-D3CA-6421-5705A4F3DD96}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
